@@ -1,1 +1,1 @@
-console.log("he;lo，我的yolo徽章")
+console.log("hello，我的yolo徽章")
